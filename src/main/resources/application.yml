@@ -1,0 +1,7 @@
+#logging:
+#  pattern:
+#    console: "%d - %msg%n" #输出格式
+#  path: D:/sell/log #默认输出 log 文件 文件名为 spring.log
+##  file: D:/sell/log/sell.log 自定义输出 log 文件
+#  level: debug #也可以指定某类的日志级别
+
